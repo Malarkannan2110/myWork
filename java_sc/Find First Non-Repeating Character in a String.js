@@ -19,3 +19,4 @@ if (firstUnique !== null) {
 } else {
     console.log("No unique character found");
 }
+//First non-repeating character: p
